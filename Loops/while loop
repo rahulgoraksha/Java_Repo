@@ -1,0 +1,7 @@
+-- print number 5 to 1 using while loop:
+
+        int i = 5;
+        while(i >= 1){
+            System.out.println(i);
+            i = i -1;
+        }
